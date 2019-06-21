@@ -1,0 +1,10 @@
+{
+  "name": "semantic-release-gradle",
+  "repository": "https://github.com/matdurand/semantic-release-gradle",
+  "devDependencies": {
+    "@semantic-release/changelog": "^3.0.4",
+    "@semantic-release/git": "^7.0.12",
+    "gradle-semantic-release-plugin": "^1.1.0",
+    "semantic-release": "^15.13.16"
+  }
+}
