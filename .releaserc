@@ -1,10 +1,18 @@
 {
   "branch": "master",
+  "repositoryUrl":"git@github.com:matdurand/semantic-release-gradle.git",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "gradle-semantic-release-plugin",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
-    "@semantic-release/git"
+    [
+      "@semantic-release/git",
+      {
+        "assets": [
+          "gradle.properties"
+        ]
+      }
+    ]
   ]
 }
