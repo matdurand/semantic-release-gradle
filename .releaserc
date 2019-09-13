@@ -6,13 +6,6 @@
     "gradle-semantic-release-plugin",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
-    [
-      "@semantic-release/git",
-      {
-        "assets": [
-          "gradle.properties"
-        ]
-      }
-    ]
+    "@semantic-release/git"
   ]
 }
