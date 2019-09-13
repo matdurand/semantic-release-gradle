@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/matdurand/semantic-release-gradle/compare/v1.1.5...v1.2.0) (2019-09-13)
+
+
+### Features
+
+* publish task ([605e7c2](https://github.com/matdurand/semantic-release-gradle/commit/605e7c2))
+* test ([c7a33ed](https://github.com/matdurand/semantic-release-gradle/commit/c7a33ed))
+
 ## [1.1.5](https://github.com/matdurand/semantic-release-gradle/compare/v1.1.4...v1.1.5) (2019-09-13)
 
 
