@@ -4,16 +4,10 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     "gradle-semantic-release-plugin",
-    "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
-    [
-        "@semantic-release/git",
-        {
-          "assets": [
-            "gradle.properties",
-            "CHANGELOG.md"
-          ]
-        }
-      ]
+    ["@semantic-release/git", {
+      "assets": ["gradle.properties","CHANGELOG.md"],
+      "message": "chore(release): ${nextRelease.version}"
+    }]
   ]
 }
