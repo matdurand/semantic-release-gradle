@@ -19,13 +19,13 @@ dependencies {
 
 
 
-tasks.register("publish") {
-    group = 'build'
-    description = 'fake publication for semantic-release'
+// tasks.register("publish") {
+//     group = 'build'
+//     description = 'fake publication for semantic-release'
 
-    doLast {
-        println 'skipping publication'
-    }
-}
+//     doLast {
+//         println 'skipping publication'
+//     }
+// }
 
 
