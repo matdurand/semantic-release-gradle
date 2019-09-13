@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/matdurand/semantic-release-gradle/compare/v1.1.4...v1.1.5) (2019-09-13)
+
+
+### Bug Fixes
+
+* semantic release config ([2ce6bc4](https://github.com/matdurand/semantic-release-gradle/commit/2ce6bc4))
+
 ## [1.1.3](https://github.com/matdurand/semantic-release-gradle/compare/v1.1.2...v1.1.3) (2019-09-13)
 
 
