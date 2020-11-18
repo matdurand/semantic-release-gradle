@@ -5,6 +5,6 @@
     "@semantic-release/changelog": "^3.0.4",
     "@semantic-release/git": "^7.0.12",
     "gradle-semantic-release-plugin": "^1.1.0",
-    "semantic-release": "^15.13.16"
+    "semantic-release": "^17.2.3"
   }
 }
